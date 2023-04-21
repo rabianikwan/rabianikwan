@@ -4,7 +4,6 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning JS,Web Fullstack
 - 👨‍💻 &nbsp;Read more about my projects at 
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and PC Gaming
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
