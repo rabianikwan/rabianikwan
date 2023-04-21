@@ -13,10 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rabianikwan" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabianikwan" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabianikwan&exclude_repo=github-readme-stats,anuraghazra.github.io&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabianikwan&show_icons=true&theme=transparent)
 
 
 
