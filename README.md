@@ -3,23 +3,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning JS,Web Fullstack
-- 👨‍💻 &nbsp;Read more about my projects at 
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rabianikwan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rabianikwan" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/rabian-ikwan-89a025273/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabianikwan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rabianikwan" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabianikwan" height="30" width="40" /></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabianikwan&show_icons=true&theme=transparent)
-
-
-
-
-
-### ✨&nbsp; About Me
 
 I am a Junior Full Stack Developer.
 
