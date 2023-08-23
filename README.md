@@ -7,7 +7,7 @@
 
 - 🔭 Awesome Project [Travel project webapplication](https://github.com/rabianikwan/travel-app)
 
-- 👨‍💻 Whatsapp Integration w/ GPT3.5 **https://github.com/rabianikwan/WA-chatgpt**, newest : https://github.com/rabianikwan/gpt-engineer
+- 👨‍💻 Whatsapp Integration w/ GPT3.5 **https://github.com/rabianikwan/WA-chatgpt**, Try this GPT Engineering tools to help you to code : https://github.com/rabianikwan/gpt-engineer
 
 - 👯 See my another project with Next.JS? [Netflix clone](https://github.com/rabianikwan/netflix-clone-pr)
 
