@@ -9,7 +9,7 @@
 
 - 👨‍💻 Whatsapp Integration w/ GPT3.5 **https://github.com/rabianikwan/WA-chatgpt**, Try this GPT Engineering tools to help you to code : https://github.com/rabianikwan/gpt-engineer
 
-- 👯 See my another project with Next.JS? [Netflix clone](https://github.com/rabianikwan/netflix-clone-pr)
+- 👯 See my another fun project with Next.JS? [Netflix clone](https://github.com/rabianikwan/netflix-clone-pr)
 
 - 🤝 Automation [Selenium](https://github.com/rabianikwan/inm-rumah-sakit)
 
