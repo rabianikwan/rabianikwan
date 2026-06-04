@@ -1,28 +1,68 @@
-<h1 align="center">Hi 👋, I'm Rabian Ikwan</h1>
-<h3 align="center">A passionate JavaScript Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabianikwan&label=Profile%20views&color=0e75b6&style=flat" alt="rabianikwan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabianikwan" alt="rabianikwan" /></a> </p>
-
-- 🔭 Awesome Project [Travel project webapplication](https://github.com/rabianikwan/travel-app)
-
-- 👨‍💻 Whatsapp Integration w/ GPT3.5 **https://github.com/rabianikwan/WA-chatgpt**, Try this GPT Engineering tools to help you to code : https://github.com/rabianikwan/gpt-engineer
-
-- 👯 See my another fun project with Next.JS? [Netflix clone](https://github.com/rabianikwan/netflix-clone-pr)
-
-- 🤝 Automation [Selenium](https://github.com/rabianikwan/inm-rumah-sakit)
-
-- 🌱 I’m currently learning **Golang and Python**
-
-- 📫 How to reach me **rabianikwan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rabianikwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabianikwan" height="30" width="40" /></a>
+<h1 align="center">Rabian Ikwan</h1>
+<p align="center">
+  <em>Software Engineer · 5 Years Experience · Quantitative Computing & Infrastructure</em><br/>
+  East Kalimantan, Indonesia
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/rabianikwan">
+    <img src="https://img.shields.io/badge/LinkedIn-rabianikwan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rabianikwan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rabianikwan@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0006-8499-4867">
+    <img src="https://img.shields.io/badge/ORCID-0009--0006--8499--4867-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rabianikwan&style=flat-square&color=6366f1&label=Profile+Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabianikwan&show_icons=true&locale=en&layout=compact" alt="rabianikwan" /></p>
+---
+
+## About
+
+Software engineer with 5 years of experience building web applications, automation pipelines, and self-hosted infrastructure. I work across the full stack — from frontend interfaces to backend services, DevOps tooling, and data engineering. I have a strong interest in reproducible, code-first analytical systems and AI agent infrastructure.
+
+---
+
+## Technical Skills
+
+**Frontend**
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Angular` · `Tailwind CSS` · `HTML/CSS`
+
+**Backend**
+`Node.js` · `NestJS` · `Express` · `Django` · `GraphQL` · `REST APIs`
+
+**Data & Scripting**
+`Python` · `R` · `pandas` · `openpyxl` · `rapidfuzz` · Statistical computing
+
+**Databases**
+`PostgreSQL` · `MySQL` · `MariaDB` · `MongoDB` · `Redis` · `Firebase`
+
+**Infrastructure & DevOps**
+`Docker` · `Debian/Linux` · `Nginx` · `CasaOS` · `Cloudflare Tunnel` · Self-hosted home lab
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rabianikwan&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## Interests
+
+- Full-stack web development
+- AI agent infrastructure and tooling
+- Self-hosted systems and DevOps
+- Reproducible data pipelines
+- Quantitative computing
+
+---
+
+## Contact
+
+Open to collaboration on software projects, data engineering, or AI tooling.
+Reach me at **rabianikwan@gmail.com** or on [LinkedIn](https://linkedin.com/in/rabianikwan).
