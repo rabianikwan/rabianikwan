@@ -1,6 +1,6 @@
 <h1 align="center">Rabian Ikwan</h1>
 <p align="center">
-  <em>Software Engineer · 5 Years Experience · Quantitative Computing & Infrastructure</em><br/>
+  <em>Software Engineer · 5 Years Experience · Backend Engineer & DevOps </em><br/>
   East Kalimantan, Indonesia
 </p>
 
@@ -20,8 +20,12 @@
 ---
 
 ## About
-
-Software engineer with 5 years of experience...
+I'm a backend engineer and systems thinker with 5 years building things that scale. 
+I work across DevOps infrastructure and ML pipelines—not because I'm a generalist, 
+but because I believe the best engineering happens at the intersection of domains. 
+Lately I'm thinking about observability, resilience, and how data shapes system design. 
+Here you'll find some of that work—half-baked ideas, production-hardened tools, and 
+the occasional controversial take on architecture.
 
 ---
 
