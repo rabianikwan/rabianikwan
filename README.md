@@ -1,7 +1,6 @@
 <h1 align="center">Rabian Ikwan</h1>
 <p align="center">
   <em>Software Engineer · 5 Years Experience · Backend Engineer & DevOps </em><br/>
-  East Kalimantan, Indonesia
 </p>
 
 <p align="center">
