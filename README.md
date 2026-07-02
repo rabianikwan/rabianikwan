@@ -21,31 +21,27 @@
 
 ## About
 
-Software engineer with 5 years of experience building web applications, automation pipelines, and dev-ops. I work across the full stack: frontend interfaces, backend services, DevOps tooling, and data engineering. I have a strong interest in reproducible, code-first analytical systems and AI agent infrastructure.
-
-One area I care about deeply: the structural overreliance on SPSS in Indonesian clinical and health research contexts. SPSS cannot perform proportional hazards assumption testing (Schoenfeld residuals), multiple imputation via random forest, bootstrap model validation, or calibration curve analysis. These are methods standard in rigorous clinical prediction research internationally. This gap produces a reproducibility ceiling that affects the quality and credibility of Indonesian health research output. I advocate for open, scriptable tools (R and Python) as the foundation for any serious quantitative work in this space.
+Software engineer with 5 years of experience...
 
 ---
 
 ## Technical Skills
 
 **Languages**
-`JavaScript` · `TypeScript` · `Rust` · `Python` · `R`
+`JavaScript` · `Kotlin` · `Rust` · `Python` · `R`
 
 **Frontend**
-`React` · `Next.js` · `Angular` · `Tailwind CSS` · `HTML/CSS`
+`React` · 
 
 **Backend**
-`Node.js` · `NestJS` · `Express` · `Django` · `GraphQL` · `REST APIs`
+`Node.js` · `FastAPI` · `Express` 
 
 **Data & Scripting**
-`pandas` · `openpyxl` · `rapidfuzz` · Statistical computing
+`Python` · `R`
 
-**Databases**
-`PostgreSQL` · `MySQL` · `MariaDB` · `MongoDB` · `Redis` · `Firebase`
 
 **Infrastructure & DevOps**
-`Docker` · `Debian/Linux` · `Nginx` · `CasaOS` · `Cloudflare Tunnel` · Self-hosted home lab
+`Docker` · `Debian/Linux` · `Nginx` · `Cloudflare Tunnel` · 
 
 ---
 
